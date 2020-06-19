@@ -11,3 +11,5 @@ Wie sein Name schon andeutet, beherrscht er alle Tricks und kann mit seinen Mits
 * trickreich
 * mutig
 * furchtlos
+
+> Ich beherrsche alle Trix!
