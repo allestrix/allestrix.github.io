@@ -13,3 +13,5 @@ Wie sein Name schon andeutet, beherrscht er alle Tricks und kann mit seinen Mits
 * furchtlos
 
 > Ich beherrsche alle Trix!
+
+<img scr="https://www.comedix.de/grafik/figuren/allestrix_maccaronix_violon.jpg" />
